@@ -4,5 +4,4 @@ const currentDirectory = require('./pwd');
 currentDirectory();
 
 const allMyFiles = require('./ls');
-// console.log (currentDirectory);
 allMyFiles();
